@@ -1,0 +1,19 @@
+{
+    "features": [
+        {
+            "properties": {
+                "created_at": "Sat Oct 15 11:14:45 +0000 2016",
+                "text": "Actress from leaked 2005 Trump tape speaks out https://t.co/PwPdOvugEC"
+            },
+            "geometry": {
+                "coordinates": [
+                    -87.90968018,
+                    43.04137104
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
